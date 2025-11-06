@@ -2,8 +2,7 @@
 
 🚀 **DevOps Engineer** | ☁️ **Cloud Infrastructure** | 🤖 **Automation Enthusiast**
 
-I’m passionate about building scalable, automated, and secure cloud infrastructure. Currently focused on provisioning AWS environments using **Terraform** and automating multi-tier deployments with **Ansible**.
-
+I’m passionate about DevOps and cloud engineering, building scalable, automated, and reliable cloud infrastructures. I love creating smooth, efficient workflows that make deploying and managing multi-tier applications easier and more consistent.
 ---
 
 ### 🧠 What I Work With
