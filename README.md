@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Shatrujit Biswal ☁️💻
 
-<!--
-**Shatrujit-Biswal/Shatrujit-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** | ☁️ **Cloud Infrastructure** | 🤖 **Automation Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building scalable, automated, and secure cloud infrastructure. Currently focused on provisioning AWS environments using **Terraform** and automating multi-tier deployments with **Ansible**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Work With
+
+* ☁️ **Cloud:** AWS (EC2, S3, VPC, IAM, Lambda)
+* ⚙️ **IaC:** Terraform, Ansible
+* 🔄 **CI/CD:** Jenkins
+* 🐧 **OS & Tools:** Linux, Git
+* 🖧 **Networking:** Networking concepts & configuration
+* 🐳 **Containers:** Docker (learning)
+* ⚙️ **Build Tools:** Maven
+* 💻 **Languages:** Python, Bash
+* 🧰 **Version Control:** Git & GitHub
+
+---
+
+
+### 📂 Featured Projects
+
+#### 🔹 [terraform-aws-infra](https://github.com/Shatrujit-Biswal/terraform-aws-infra) 🛠️
+
+Automates provisioning and configuration of AWS infrastructure using **Terraform**.
+
+> Infrastructure as Code (IaC) for repeatable, version-controlled environments.
+
+#### 🔹 [ansible-infra-automation](https://github.com/Shatrujit-Biswal/ansible-infra-automation) 🤖
+
+Automates setup of a **3-tier architecture** using **Ansible**.
+
+> Simplifies multi-server deployments and enforces configuration consistency.
+
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shatrujit-biswal/)
+[![X](https://img.shields.io/badge/X-000000?style=flat\&logo=x\&logoColor=white)](https://x.com/ShatrujitBiswal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Shatrujit-Biswal)
+
+💬 Feel free to explore my projects or reach out for collaborations in DevOps & Cloud!
+
+---
+
+⭐️ *“Automate everything, version everything, document everything.”*
