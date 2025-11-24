@@ -13,7 +13,7 @@ I’m passionate about **DevOps and cloud engineering**, building **scalable, au
 * 🔄 **CI/CD:** Jenkins
 * 🐧 **OS & Tools:** Linux, Git
 * 🖧 **Networking:** Networking concepts & configuration
-* 🐳 **Containers:** Docker (learning)
+* 🐳 **Containers:** Docker 
 * ⚙️ **Build Tools:** Maven
 * 💻 **Languages:** Python, Bash
 * 🧰 **Version Control:** Git & GitHub
